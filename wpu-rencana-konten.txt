@@ -2,6 +2,9 @@ rencana konten wpu
 1. video js
 ES6
 -Framework JS
+-Vue
 2. php frameworks
+-CI
 3. vlog
+-Python
 4. stuktur data dasar
