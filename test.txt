@@ -1,0 +1,5 @@
+belajar-git
+-konsisten
+-gatau
+-mau
+-ngapain
