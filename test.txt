@@ -3,3 +3,4 @@ belajar-git
 -gatau
 -mau
 -ngapain
+- nyoba ngedit
